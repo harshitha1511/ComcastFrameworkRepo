@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-19T10:43:24 IST" name="Default suite" finished-at="2026-02-19T10:43:24 IST" duration-ms="137">
+    <groups>
+    </groups>
+    <test started-at="2026-02-19T10:43:24 IST" name="Default test" finished-at="2026-02-19T10:43:24 IST" duration-ms="137">
+      <class name="practice.test.Debugging">
+        <test-method signature="debug()[pri:0, instance:practice.test.Debugging@5e0e82ae]" started-at="2026-02-19T10:43:24 IST" name="debug" finished-at="2026-02-19T10:43:24 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debug -->
+      </class> <!-- practice.test.Debugging -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
