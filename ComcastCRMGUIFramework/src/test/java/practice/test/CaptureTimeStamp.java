@@ -8,5 +8,9 @@ public class CaptureTimeStamp
 	{
 		String time=new Date().toString();
 		System.out.println(time.replace(" ", "_").replace(":", " "));
+
+		System.out.println();
 	}
+	
 }
+
