@@ -16,7 +16,7 @@ public class ExcelUtility
 		FileInputStream fis=new FileInputStream("./testData/selenium.xlsx");
 		Workbook wb=WorkbookFactory.create(fis);
 		String data=wb.getSheet(sheetName).getRow(rowNum).getCell(cellNum).getStringCellValue();
-		
+		System.out.println();
 		return data;
 	}
 	
@@ -42,3 +42,4 @@ public class ExcelUtility
 	}
 	
 }
+
